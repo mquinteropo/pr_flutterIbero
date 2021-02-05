@@ -1,4 +1,5 @@
 import 'package:app1/view/login_page.dart';
+import 'package:app1/view/news_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,11 +16,14 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      initialRoute: '/login',
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/news',
       onGenerateRoute: (settings) {
         switch (settings.name) {
           case '/login':
             return MaterialPageRoute(builder: (context) => new LoginPage());
+          case '/news':
+            return MaterialPageRoute(builder: (context) => new NewsPage());
           default:
             return null;
         }
