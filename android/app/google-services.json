@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883437789905",
+    "project_id": "pruebafirebase-1d8a4",
+    "storage_bucket": "pruebafirebase-1d8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883437789905:android:3e9464c107ee5b8a179bf0",
+        "android_client_info": {
+          "package_name": "com.iscrozo.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883437789905-u953a20jlo99c81l76tb3knbmkcsv9fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iscrozo.app1",
+            "certificate_hash": "af8481a8dd6888fbbd44bb8e1cc8611303e9e60a"
+          }
+        },
+        {
+          "client_id": "883437789905-njqt84pu1to1dqeaa4ebrio310h788al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4a824S7mjVxm2MpN-1jQvy7petd_Iy60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883437789905-njqt84pu1to1dqeaa4ebrio310h788al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

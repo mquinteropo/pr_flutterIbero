@@ -12,7 +12,7 @@ class NewsPage extends StatelessWidget {
         backgroundColor: Colors.white,
         iconTheme: IconThemeData(color: Colors.grey),
         title: Text(
-          'Bit News',
+          'Outsourcing S.A',
           style: TextStyle(color: Colors.grey),
         ),
         actions: [
